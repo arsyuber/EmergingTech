@@ -1,0 +1,15 @@
+{
+  "emerging_technology": "Cloud-Native Core Banking Architecture",
+  "intended_application": "Core Banking System Upgrade (MVP 2)",
+  "organization": "Bank Rakyat Indonesia New York Agency",
+  "industry_sector": "Corporate Banking and Financial Services",
+  "business_need": "Modernizing legacy infrastructure to support efficient daily vendor updates, rigorous testing tracking, and streamlined documentation.",
+  "users_stakeholders": "IT Business Analysts, Project Management Office, banking operations staff, and corporate clients.",
+  "adoption_posture": "Conservative/risk-averse; requires high reliability and proven vendor solutions before deployment.",
+  "capabilities_constraints": "Must integrate with existing financial reporting tools (e.g., Power BI, Tableau) and project management software (Jira, Smartsheet). Strict regulatory and data residency constraints.",
+  "risk_consequence_context": "High consequence. System failure or data corruption during the upgrade threatens regulatory compliance, financial reporting, and daily corporate banking operations.",
+  "decision_time_horizon": "Evaluating architectural readiness and vendor delivery for the MVP 2 rollout over the next 6 to 12 months.",
+  "management_question": "Are the predecessor technologies of cloud-native architecture proven enough to support the Core Banking System Upgrade (MVP 2) without risking daily corporate banking operations",
+  "time_horizon": "6 to 12 months",
+  "additional_context": "The PMO requires daily vendor updates, rigorous testing tracking, and documentation using Jira and Smartsheet."
+}
