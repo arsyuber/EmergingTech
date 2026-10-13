@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Cloud-Native Core Banking Architecture",
+  "intended_application": "Core Banking System Upgrade (MVP 2)",
+  "organization": "Bank Rakyat Indonesia New York Agency",
+  "industry_sector": "Corporate Banking and Financial Services",
+  "business_need": "Transitioning from monolithic batch-processing systems to a modular, API-driven architecture to lower IT maintenance overhead, eliminate batch delays, and enable real-time corporate cash-management and reporting capabilities.",
+  "users_stakeholders": "IT Business Analysts, Project Management Office (PMO), core banking operations teams, regulatory compliance officers, and corporate banking clients.",
+  "adoption_posture": "Conservative/risk-averse; modernizing to preserve competitive parity and operational efficiency rather than acting as an aggressive market disruptor.",
+  "capabilities_constraints": "Constrained by strict U.S. banking regulations, cross-border data residency rules, and dependencies on existing financial reporting tools. Currently encumbered by high-maintenance legacy vendor contracts and manual deployment cycles.",
+  "risk_consequence_context": "High operational and compliance consequence. System downtime or ledger corruption threatens regulatory standing and daily settlement. The counterbalancing strategic risk is failing to respond, resulting in corporate client attrition to peers offering real-time API services.",
+  "management_question": "Does this cloud-native upgrade represent an incremental operational innovation or a breakthrough business-model disruption for our agency, and what legacy capabilities, cost structures, or vendor dependencies will it displace or make obsolete?",
+  "time_horizon": "6 to 12 months for MVP 2 architectural evaluation, vendor testing, and phased delivery.",
+  "additional_context": "The PMO requires daily vendor tracking, rigorous test reporting in Jira and Smartsheet, and seamless ledger coexistence during transition without interrupting daily corporate wire settlements."
+}
