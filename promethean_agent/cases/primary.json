@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Agentic AI and Foundation Models",
+  "intended_application": "Autonomous PMO, Business Analysis, and Regulatory Reconciliation for Core Banking (MVP 2)",
+  "organization": "Bank Rakyat Indonesia New York Agency",
+  "industry_sector": "Corporate Banking and Financial Services",
+  "business_need": "Deploying autonomous AI agents to write business requirements, track Jira workflows, analyze testing data, and reconcile daily corporate wire settlements without human intervention.",
+  "users_stakeholders": "IT Business Analysts, Project Management Office, Scrum Masters, and compliance officers.",
+  "adoption_posture": "Conservative/risk-averse; exploring AI strictly to reduce IT overhead and operational bottlenecks, not to replace core human banking judgments.",
+  "capabilities_constraints": "High dependency on strict data residency, U.S. banking regulations, and deterministic financial ledgers. Hallucinations or autonomous unapproved actions carry severe compliance penalties.",
+  "risk_consequence_context": "High operational and compliance consequence. The strategic risk is falling behind in operational efficiency, but the immediate risk is an AI agent making an unapproved architectural or financial decision.",
+  "management_question": "Does deploying agentic AI for core banking workflows represent an incremental efficiency tool, a breakthrough in cognitive automation, or a Promethean shift, and how aggressively should we adopt it given our regulatory constraints?",
+  "time_horizon": "6 to 12 months for a bounded proof-of-concept focusing strictly on internal IT and PMO workflows.",
+  "additional_context": "The PMO currently relies on manual updates across Jira, Confluence, and Smartsheet to track Agile ceremonies, sprint velocities, and defect resolutions. The goal is to use agentic workflows to autonomously draft user stories, reconcile daily wire settlement reports against the core ledger, and generate compliance audit trails, freeing business analysts to focus on architectural strategy."
+}
