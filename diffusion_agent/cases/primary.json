@@ -1,0 +1,13 @@
+{
+  "emerging_technology": "Agentic AI and Foundation Models",
+  "intended_application": "Autonomous PMO, Business Analysis, and Regulatory Reconciliation",
+  "organization": "Bank Rakyat Indonesia New York Agency",
+  "industry_sector": "Corporate Banking and Financial Services",
+  "business_need": "Automating internal IT workflows, Jira updates, and settlement exception reporting.",
+  "users_stakeholders": "IT Business Analysts, PMO, and compliance officers.",
+  "adoption_posture": "Conservative / Late Majority; prioritizes proven stability, vendor support, and regulatory clarity over being first to market.",
+  "capabilities_constraints": "Strict data residency, high regulatory compliance overhead, and reliance on deterministic ledger systems.",
+  "risk_consequence_context": "High regulatory risk. Premature adoption could lead to compliance failures or operational disruption.",
+  "management_question": "Given our conservative posture, is Agentic AI mature enough for us to deploy, or should we wait for further market standardization?",
+  "time_horizon": "12 to 18 months."
+}
