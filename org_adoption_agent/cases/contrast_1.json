@@ -1,0 +1,13 @@
+{
+  "emerging_technology": "Agentic AI and Foundation Models",
+  "intended_application": "Autonomous PMO, Business Analysis, and Regulatory Reconciliation",
+  "organization": "Apex Digital Finance",
+  "industry_sector": "FinTech",
+  "business_need": "Automating internal IT workflows and settlement exception reporting.",
+  "users_stakeholders": "Cloud engineers and agile product managers.",
+  "adoption_posture": "Aggressive / leading-edge",
+  "capabilities_constraints": "Cloud-native infrastructure and highly skilled AI engineers. However, the startup lacks a formal compliance department, workflows change weekly without documentation, and there is no dedicated budget for long-term model maintenance or monitoring.",
+  "risk_consequence_context": "Moderate operational risk.",
+  "management_question": "Are we structurally and culturally ready to deploy Agentic AI for these workflows?",
+  "time_horizon": "Next 3 months."
+}

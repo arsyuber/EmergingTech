@@ -1,0 +1,13 @@
+{
+  "emerging_technology": "Agentic AI and Foundation Models",
+  "intended_application": "Autonomous PMO, Business Analysis, and Regulatory Reconciliation",
+  "organization": "Bank Rakyat Indonesia New York Agency",
+  "industry_sector": "Corporate Banking",
+  "business_need": "Automating internal IT workflows and settlement exception reporting.",
+  "users_stakeholders": "IT Business Analysts, PMO, and compliance officers.",
+  "adoption_posture": "Conservative / risk-averse",
+  "capabilities_constraints": "Highly mature governance and compliance culture. However, infrastructure relies on legacy deterministic ledgers. There is no dedicated AI engineering team, limited budget for new API integrations, and PMO processes are highly manual and undocumented.",
+  "risk_consequence_context": "High regulatory risk.",
+  "management_question": "Are we structurally and culturally ready to deploy Agentic AI for these workflows?",
+  "time_horizon": "Next 12 months."
+}
